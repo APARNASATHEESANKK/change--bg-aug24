@@ -9,7 +9,7 @@ function Changer() {
 
   return (
     <div style={{backgroundColor:"black",maxHeight:"100vh",Width:"700vh"}}>
-        <div style={{ backgroundColor: color, height: "85vh",width:"70vh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent:"center", padding: "20px",marginLeft:"50px" }}>
+        <div style={{ backgroundColor: color, height: "85vh",width:"70vh", display: "flex", flexDirection: "column", alignItems: "center", justifyContent:"center", padding: "20px" }}>
 
            <h1 style={{ color: "white", textAlign: "center" }}> Change Background Color</h1>
 
